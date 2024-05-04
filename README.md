@@ -57,7 +57,7 @@ npm start
 
 ## Features
 
-- Home Page (is user !authorised)
+- Home Page (is user authorised)
 
   - Signin/Signup Page
     - SignInForm / SignUpForm
@@ -74,9 +74,6 @@ npm start
   - Search
   - MoviesSuggestion
 
-## Screen Shot
-
-Live Demo : [Live Demo](https://okneeraj.github.io/netflix-gpt "Live Demo")
 
 ## Screen Shot
 
@@ -107,23 +104,5 @@ Live Demo : [Live Demo](https://okneeraj.github.io/netflix-gpt "Live Demo")
 - Search Page
 
   ![Search Page](https://okneeraj.github.io/netflix-gpt/screenshot/07-Search.png)
-
-- Watch Now Page
-
-  ![Watch Now Page](https://okneeraj.github.io/netflix-gpt/screenshot/08-Watch.png)
-
-# 💖 Support This Project
-
-Thank you for taking the time to explore NetflixGPT! This project represents an in-depth implementation of features extracted from the inspiring course "Namaste-React" by Akshay Saini. It's been a rewarding journey, and I'm genuinely grateful for the opportunity to create and share this with the community.
-
-I want to express my heartfelt thanks to everyone who has shown interest and provided feedback. Your support and involvement mean a lot to me.
-
-If you have any questions, suggestions, or just want to connect, feel free to reach out.
-
-`<Happy coding />`
-
-## 🙏 Thank You 🙏
-
-Feel free to modify it to suit the tone and style of your project. The goal is to encourage participation, collaboration and learning.
 
 Made with ❤️ and React.
